@@ -86,7 +86,7 @@ To run the project, execute the following command:
 Example command:
 
 ```sh
-- Open the terminal to play with the commands.
+- run rails server
 ```
 
 ### Run tests
