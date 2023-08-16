@@ -33,9 +33,7 @@
 
 ## React Link
 
-```sh
-  https://github.com/mercymugambi/hello-react-front-end/
-```
+https://github.com/mercymugambi/hello-react-front-end/blob/feature/setup/
 
 ## Key Features
 
